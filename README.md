@@ -6,7 +6,7 @@ We all know the basics of Git, but when you start working in group projects Git 
 ### Branches
 Branches are extremely important in working on a project. YOU SHOULD NEVER BE WORKING ON THE MASTER. LET ME REPEAT....
 
-<b> YOU SHOULD **NEVER** BE WORKING ON THE MASTER</b>
+<b> YOU SHOULD **NEVER** BE WORKING ON / COMMITTING TO THE MASTER</b>
 
 ... so let's get to learning... In the past we've been used to forking and then cloning down. Now, because we're all working on the same project, we will directly clone down from the same project.
 
